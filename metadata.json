@@ -1,0 +1,6 @@
+{
+  "name": "Controle de Água",
+  "description": "Sistema residencial de controle de consumo de água com registro de hidrômetro, gráficos, detecção de vazamentos e simulador de fatura integrado ao Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
